@@ -8,6 +8,11 @@ Keep these two:
 #F7FFF7 light color for fonts on a dark background
 
 Add your colors here...
+#759EB8 Air superiority blue
+#C5D5EA Columbia Blue
+#7392B7 Silver Lake Blue
+#B3C5D7 Powder
+
 */
 
 
@@ -32,7 +37,7 @@ html {
     width: 300px;
   }
   a {
-    /* color: ; */
+    color: #759EB8;
   }
   a:hover {
     text-decoration: none;
@@ -92,29 +97,29 @@ html {
   /* Profile
   ------------------------------------*/
   header {
-    /* background: ; */
-    /* color: ; */
+    background: #C5D5EA; 
+    color: #343434;
   }
   
   
   /* Projects
   ------------------------------------*/
   .projects {
-    /* background: ; */
+    background: #B3C5D7;
   }
   .projects a {
-    /* color: ; */
+    color: #7392B7;
   }
   .projects .btn {
-    /* color: ; */
-    /* background: ; */
+    color: #F7FFF7; 
+    background: #759EB8;
     text-decoration: none;
     padding: 8px;
     border-radius: 4px;
     display: inline-block;
   }
   .projects .btn:hover {
-    /* background: ; */
+    background: #7392B7;
   }
   .project-item {
     overflow: hidden;
@@ -138,8 +143,8 @@ html {
   /* Contact Info
   ------------------------------------*/
   footer {
-    /* background: ; */
-    /* color: ; */
+    background: #C5D5EA;
+    color: #343434;
   }
   .contact-list {
     list-style-type: none;
@@ -148,7 +153,7 @@ html {
   .contact-list a {
     padding: 15px;
     display: inline-block;
-    /* color: ; */
+     color: #759EB8; 
   }
 
 

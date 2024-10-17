@@ -143,8 +143,8 @@ html {
   /* Contact Info
   ------------------------------------*/
   footer {
-    background: #C5D5EA;
-    color: #343434;
+    background: #343434;
+    color: #F7FFF7;
   }
   .contact-list {
     list-style-type: none;
